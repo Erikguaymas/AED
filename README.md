@@ -1,6 +1,6 @@
 # AED
-K1051
-2022
-1686124
-Guaymás
-Erik
+Curso K1051
+Año 2022
+Legajo 1686124
+Apellido: Guaymás
+Nombre: Erik
